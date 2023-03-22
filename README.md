@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 📍 São José dos Campos
 
 - 🌱 I’m currently learning python, HTML and CSS
 - 📫 How to reach me: pedro.souza90@fatec.sp.gov.br

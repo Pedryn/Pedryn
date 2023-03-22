@@ -28,4 +28,4 @@
   <a href="https://www.linkedin.com/in/pedro-henrique-de-souza-128484214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-1[Snake animation](https://github.com/Pedryn/Pedryn/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Pedryn/Pedryn/blob/output/github-contribution-grid-snake.svg)
